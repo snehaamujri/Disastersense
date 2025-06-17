@@ -1,6 +1,5 @@
-fastapi
-uvicorn
-pymongo
+django
+djangorestframework
 python-dotenv
 requests
 google-cloud-vision
