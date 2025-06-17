@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+requests
+google-cloud-vision
+google-cloud-aiplatform
+openai
+pillow
+scikit-learn
